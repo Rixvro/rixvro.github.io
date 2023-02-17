@@ -30,3 +30,11 @@ html, body{
     margin-left: 40px;
     padding: 20px;
 }
+
+p, .lead, .nav-link{
+    font-size: 25px;
+}
+
+.card{
+    margin: 30px 0;
+}
