@@ -7,6 +7,7 @@
 img{
     width: 100%;
     margin-bottom: -4px;
+    border-radius: 5%;
 }
 
 .container .row{

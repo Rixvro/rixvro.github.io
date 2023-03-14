@@ -1,9 +1,10 @@
-hero img{
-    width: 40%;
-    margin: 20px;
-}
 
 .card img{
     max-height: 290px;
     object-fit: cover;
+    margin: 10px 0;
+}
+
+.intro img{
+    max-height: 600px;
 }
